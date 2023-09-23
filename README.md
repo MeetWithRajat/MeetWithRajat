@@ -9,7 +9,7 @@ My primary programming language is Python, and I have hands-on experience workin
 
 My professional journey has led me to specialize in Python and its associated modules, and I'm eager to expand my knowledge in Artificial Intelligence and Machine Learning. I am always open to collaborating on Python projects and exploring new opportunities to apply my skills and expertise.
 
-📫 You can reach out to me at: Name: **Rajat Roy** Email: **meetwithrajat@gmail.com**
+📫 You can reach out to me at: Name: **Rajat Roy** Email: **meetwithrajat@gmail.com** LinkedIn: **[in/rajat-roy-199380217](https://www.linkedin.com/in/rajat-roy-199380217/)**
 
 Feel free to connect with me to discuss Python programming, AWS, AI, or any exciting project collaborations.
 
