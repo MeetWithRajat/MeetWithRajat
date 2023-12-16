@@ -1,8 +1,8 @@
 - **👋 Hello, I'm Rajat Roy,**
 
-I'm a dedicated Python Developer with a strong passion for programming and a keen interest in advanced techniques.
+I'm a Python Developer with a strong passion for programming and a keen interest in advanced techniques.
 
-I'm currently employed at TCS, where I actively contribute to the development of innovative solutions while continuously analyzing and enhancing existing systems.
+I'm currently employed at TCS, where I actively contribute to the development of complex and innovative solutions while continuously analyzing and enhancing existing systems.
 
 My primary programming language is Python, and I have hands-on experience working with a variety of AWS services, including Lambda, ECS, EC2, CloudWatch, SQS, and S3, to ensure effective monitoring and management of hosted components.
   
